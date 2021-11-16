@@ -6,4 +6,10 @@ We collect and store your location only for the time we need to find a car for y
 If you are using this app as a driver - we will need to store your location longer to be able to find car orders for you any time you're on duty.
 You can allow or revoke permission to use your location any time from the settings of this application.
 
-© Kai Nudem 
+© YEEG SAS, all rights reserved
+
+All questions about the app, privacy, data usage are to be addressed to:
+
+YEEG SAS
+17 cité Somisci Mermoz
+Dakar, SENEGAL
